@@ -1,0 +1,209 @@
+/*		PC Layout: 768px.
+		Gutters: 24px.
+		Outer margins: 28px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 800px) and (max-width: 1900px) {
+
+
+}
+@media only screen and (min-width: 200px) and (max-width: 992px) {
+
+	body {
+
+	}
+    .room_type{
+		margin-bottom:0px;
+	}
+	.room_type_6{
+		margin-bottom:0px;
+		border-bottom: 2px solid #939393;
+	}
+	.more_edit_details{
+		margin-top:30px;
+	}
+	.reserve{
+	margin-top:50px;
+	}
+    
+}
+@media only screen and (max-width: 280px) {
+
+	body {
+
+	}
+    .book_right p{
+    margin-top: 0px;
+    }   
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+	body {
+
+	}
+    .more_edit_details{
+		margin-left:-20px;
+		margin-top:30px;
+	}	
+}
+
+
+/*		Tablet Layout: 768px.
+		Gutters: 24px.
+		Outer margins: 28px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 801px) and (max-width: 1199px) {
+
+	body {
+
+	}
+    .my_img{
+        height: 155px;
+    }
+	
+}
+@media only screen and (min-width: 200px) and (max-width: 990px) {
+
+	body {
+        
+    }
+    .room_type{
+        border-right:none;
+    }
+	.room_type_6{
+        border-right:none;
+    }
+    .room_type_1{
+        display: none;
+        border-right: none;
+    }
+    .room_option_2{
+        display: none;
+    }
+    .room_price_3{
+        display: none;
+    }
+    .room_option h4{
+        font-size: 14px;
+    }
+	.room_option_6 h4{
+        font-size: 14px;
+    }
+    .sign_msge{
+        border-right: none;
+    }
+    .sign_button{
+        padding: 6px 30px;
+    }
+	.cus_pad{
+		margin-left:-15px;
+	}
+}
+
+
+/*		Mobile Layout: 320px.
+		Gutters: 24px.
+		Outer margins: 34px.
+		Inherits styles from: Default Layout.
+---------------------------------------------
+cols    1     2      3
+px      68    160    252    */
+
+@media only screen and (min-width: 601px) and (max-width: 800px) {
+
+	body {
+	
+	}
+     .hotel_detailes h2{
+        font-size: 14px;
+         margin-top: 0%;
+        }
+    .hotel_detailes{
+        max-width: 33%;
+        }
+    .hotel_deal{
+        max-width: 33%;
+        }
+    .hotel_detailes h4{
+        font-size: 12px;
+        margin-top: 0%;
+        }
+    .my_img{
+        height: 155px;
+    }
+    .view_deal{
+        font-size: 10px;
+        padding: 5px 5px;
+    }   
+}
+
+
+
+/*		Wide Mobile Layout: 480px.
+		Gutters: 24px.
+		Outer margins: 22px.
+		Inherits styles from: Default Layout, Mobile Layout.
+------------------------------------------------------------
+cols    1     2      3      4      5
+px      68    160    252    344    436    */
+
+@media only screen and (min-width: 200px) and (max-width: 600px) {
+
+	body {
+        
+	}
+	.hotel_img{
+        display: none;
+    }
+    .hotel_detailes h2{
+        font-size: 14px;
+        }
+    .hotel_detailes h4{
+        font-size: 12px;
+        }
+    .view_deal{
+        font-size: 10px;
+        padding: 5px 5px;
+    }
+    .view_deal h2{
+        padding: 50px;
+    }
+    .list-inline{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 200px) and (max-width: 334px) {
+
+	body {
+        
+	}
+	.star_image{
+		max-width: 40px;
+	}
+}
+
+/*	Retina media query.
+	Overrides styles for devices with a 
+	device-pixel-ratio of 2+, such as iPhone 4.
+-----------------------------------------------    */
+
+@media 
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (min-device-pixel-ratio: 2) {
+
+	body {
+
+	}
+	
+
+
+}

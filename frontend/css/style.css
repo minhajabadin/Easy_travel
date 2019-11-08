@@ -1,0 +1,1641 @@
+body{
+    margin:0;
+    padding:0;
+    background:#d9e6e3;}
+h1,h2,h3,h4,h5,h6,p,ul,li,span,i,row{margin:0;padding:0;}
+
+
+.index_bg{
+    background-image: url('../img/index_bg.jpg'); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/*   Nav_Area_Start    */
+
+/*hotel_registation  */
+.hotel_reg{
+     background: url('../img/hotel_reg.jpg')no-repeat;
+}
+
+/*    signin    */
+
+.user_reg{
+    background: url('../img/signup.jpg')no-repeat;
+}
+.custom_button_log{
+    background:#009048;
+    color:white;
+    border-radius: 5px;
+}
+
+.custom_button_log:hover{
+    background:#006935;
+}
+
+.dropdown-menu{
+    background: #0B171E;
+    border-radius: 4px;
+}
+
+.dropdown-menu > li > a{
+    color: white;
+    background: #0B171E;
+    border-radius: 4px;
+    padding-top: 3px;
+    margin-left: 7px;
+    margin-right: 7px;
+    padding: 5px;  
+}
+
+.dropdown-menu > li > a:hover{
+    background:  #006935; 
+    color:white;
+}
+.our_span{
+    margin-top:10px;
+}
+
+/*    login    */
+
+.class_login{
+    padding-bottom:30px;
+    margin-top:-10px;
+    background: url('../img/login.jpg');
+}
+.fa_user i{
+    color:black;
+}
+.fa_user {
+    color:white;
+    font-size:16px;
+}
+.fa_user :hover{
+    color:#01B14F;
+}
+.class_login{
+    padding-bottom:30px;
+    margin-top:-10px;
+}
+.custom_button{
+    background:#009048;
+    color:white;
+    border-radius: 5px;
+}
+.custom_button:hover{
+    background:#006935;
+}
+
+.custom_button_ac{
+    background:#009048;
+    color:white;
+    border-radius:0px;
+}
+.custom_button_ac:hover{
+    background:#006935;
+}
+
+/*#1: form Control*/
+.form-control{ 
+    color:white;
+   
+}
+
+
+.custom_p{
+    font-size:35px;
+    text-align:center;
+    font-family:thin;
+    margin-top:50px;
+
+}
+.custom_p p{
+    color: white;
+}
+
+.custom_right{
+    padding-top: 20px;
+    margin-top:20px;
+    background:white;
+    margin-bottom:80px;
+    background: 0.5;
+    border: 2px solid #009048;
+    color: white;
+    border-radius:25px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.custominput{
+    border-radius:5px;
+    background-color: rgba(0, 27, 14, 0.2);
+}
+
+.forgot_login{
+    padding-top:10px;
+    padding-bottom:20px;
+}
+.logon_forgot_pass{
+    color: white;
+}
+
+.top_side{
+    background: white;
+    margin-top:-10px;
+}
+.nav_area{
+    margin-top:85px;
+}
+.top_nav{
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.top_nav ul li{
+    display: inline;
+    text-decoration: none;
+    float: right;
+}
+
+.custom_button_sg{
+    color: white;
+    margin-right: 3px; 
+    background:#28303A;
+    border:none;
+    padding:3px 8px;
+    font-size:13px;
+    font-weight:600;
+}
+
+.custom_button_sg:hover{
+    color: #01c965;
+}
+
+.custom_button_lg{
+    color: white;
+    margin-right: 3px; 
+    background:#28303A;
+    border:none;
+    padding:3px 8px;
+    font-size:13px;
+    font-weight:600;
+
+}
+.my_nav {
+    border:0px;
+    border-radius:0px;
+    background: #0B171E;
+    border-bottom: 2px solid #009048;
+    padding: 6px;
+    min-height: 70px;
+}
+
+.navbar-default .navbar-nav > li > a{
+    padding:10px 20px;
+    color: white;
+}
+
+.navbar-brand{  
+    color: white;
+}
+
+.navbar-default .navbar-brand{
+    color: white;
+    padding-bottom: 10px;
+}
+
+.navbar-default .navbar-brand:hover{
+    color:  #009048;  
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover{
+
+    background: #0B171E;
+    box-shadow:none;
+    color:white;
+}
+.navbar-brand, .navbar-nav > li > a{
+    text-shadow: none;
+}
+.navbar-default .navbar-nav > li > a:hover{
+    color:white;
+    border-top: 2px solid #009048;
+    border-bottom: 2px solid #009048;
+    margin-top:-2px;
+}
+
+.navbar-default .navbar-toggle{
+    background:#17181a!important;
+    border-color:#0B171E !important;
+    border-bottom:0px;
+}
+.navbar-default .navbar-toggle:focus,.navbar-default .navbar-toggle:hover{
+    background:#17181a !important;
+    border-color:#17181a !important;
+    border-bottom:0px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    border-color:transparent !important;
+    box-shadow:none;
+    padding-top: 7px;
+}
+.my_phone{
+    color: black;
+}
+.my_number{
+    color: black;
+}
+
+/*    Nav_Area_End       */
+
+
+/*     Slider_Area_Start       */
+.slider{ 
+    margin-top:20px;
+    background: url('../img/002.jpg')no-repeat;
+    min-height: 577px;
+}
+.icon_area{
+    background:#009048;
+    min-height: 51px;
+    text-align: center;
+    color: white;
+    padding-right:  15px;
+    border-radius: 5px;
+
+}
+.my_four{
+    margin-top: 4%;
+    text-decoration: none;
+}
+.my_four a:hover{
+    text-decoration: none;
+}
+
+.icon_area:hover{
+    background: #01a553;
+}
+
+.icon_area h3{
+    color: white;
+    text-align: center;
+    padding-top: 12px;
+}
+
+
+.icon{
+    min-width: 56px;
+    min-height: 51px;
+    background: #006935;
+    float: left;
+    padding-bottom: 8px;
+    padding-right:  15px;
+    padding-top: 12px;
+    border-radius: 5px;
+}
+
+.my_icon {
+    font-size: 30px;
+}
+
+.search_bar{
+    margin-top: 2%;
+}
+
+
+
+.my_btn{
+    background: #009048;
+    border-color:  #009048;
+    text-shadow: none;
+    color: white;
+}
+
+.my_btn:hover{
+    background: #006935; 
+    border-color: #006935;
+    color: white;
+}
+
+.ttl h1{
+    color: white;
+}
+.ttl{
+    margin-top: 18%;
+}
+
+/*    Slider_Area_End       */
+
+
+
+
+/*        Welcome_Area_Start      */
+.wlcm{
+    background: #009048;
+    min-height: 400px;
+    text-align: center;
+}
+.wl{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.lorem{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 16px;
+    padding-bottom: 30px;
+}
+.learn_button{
+    background: #006935;
+    color: white;
+}
+.learn_button:hover{
+    background: #01773d;
+}
+.btn.focus, .btn:focus, .btn:hover{
+    color: white;
+}
+
+.offers{
+    margin-top: 5%;
+    border-top: 1px solid white;
+    padding-top: 12px;
+    color: white;
+}
+
+.offers h3{
+    color: white;
+    padding-bottom: 5px;
+}
+
+.offers p{
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+
+.four_week{
+    margin-top: -30px;
+    margin-bottom: 40px;
+}
+.h_name{
+    min-height: 30px;
+    background: #006935;
+
+    text-align: center;
+}
+.b_name:hover{
+    background: #009048;
+}
+.h_name h4{
+    color: white;
+    padding-top: 4px;
+}
+.address{
+    color: #a50000;
+}
+.day{
+    color: #209f86;
+} 
+/*      Welcome_Area_End       */
+
+.offer_section{
+    background:#FFFFFF;
+}
+
+
+
+/*      our service area      */
+
+.our_services{
+    text-align: center;
+    background: #d2d2d2;
+    padding-bottom: 15px;
+}
+.services{
+    padding-top: 80px;
+    padding-bottom: 10px;
+    color: #525252;
+    font-weight: 600;
+}
+.ispum{
+    font-size: 16px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.service_one{
+
+    margin:0 auto;
+    height:250px;
+    background:url('../img/6.1.jpg');
+    float: left;
+    margin-bottom: 20px;
+    max-width: 360px;
+    margin-left: 1%
+}
+.service_two{
+
+    margin:0 auto;
+    height:250px;
+    background:url('../img/6.2.jpg');
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 1%;
+    max-width: 360px;
+}
+.service_three{
+
+    margin:0 auto;
+    height:250px;
+    background:url('../img/6.3.jpg');
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 1%;
+    max-width: 360px;
+}
+.service_four{
+
+    margin:0 auto;
+    height:250px;
+    background:url('../img/6.4.jpg');
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 1%;
+    max-width: 360px;
+}
+.service_five{
+
+    margin:0 auto;
+    height:250px;
+    background:url('../img/6.5.jpg');
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 1%;
+    max-width: 360px;
+}
+.service_six{
+
+    margin:0 auto;
+    height:250px;
+    background:url('../img/6.6.jpg');
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 1%;
+    max-width: 360px;
+}
+
+.black_area{
+    text-align: center;
+    height:250px;
+    background:rgba(0, 0, 0,0.6);	
+    margin-left: -15px;
+    margin-right: -15px;
+    color: white;
+}
+
+
+.hotels{
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    padding-top: 17%;
+    padding-bottom: 4%;
+}
+.star{
+    color: white;
+    font-size: 17px;
+    padding-bottom: 7%;
+    padding-left: 7%;
+    padding-right: 7%;
+
+}
+.read_button{
+    background: #009048;
+    color: white;
+}
+.read_button:hover{
+    background: #006935;
+    color: white;
+}
+/*      about_area      */
+.about_area{
+    background: url('../img/about.jpg');
+    padding-top:80px;
+    color: white;
+    padding-bottom: 8%;
+}
+.about_area h1{
+    color: white;
+    text-align: center;
+}
+.about_area h4{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.about_area h3{
+    color: white;
+}
+.about_one{
+    background-color: transparent;
+    margin-top:2%;
+}
+.about_one h3{
+    margin-top: 0%;
+    font-size: 22px;
+}
+.about_one p{
+    margin-top: 2%;
+}
+.stay_h4{
+    margin-bottom: 2%;
+}
+.About_us{
+    margin-bottom: 1%;
+}
+
+/*      contact_area      */
+
+.coctact_info {
+    margin-top: 3%;
+    
+    
+   color: black;
+}
+.coctact_info h2 {
+    font-size: 30px;
+   color: black;
+   text-align: center;
+   margin-bottom: 5%;
+}
+.contact_icon{
+    margin-top: 6%;
+    color: black;   
+}
+.cont_p{
+   font-size: 16px; 
+}
+.contact_us{
+    text-align:center;
+    color:black;
+}
+.assist_p{
+    text-align:center;
+    color:black;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.contact_area{
+    background: #d9e6e3;
+    padding-top:80px;
+    color: white;
+}
+.custom_message{
+    margin-top:1.3%;
+    margin-bottom:10%;
+    padding-top: 3%;
+    color: black;
+}
+.msg_input{
+    color: black;
+    max-height: 150px;
+
+}
+.contact_map img{
+    margin-top: 5%;
+}
+.img_map{
+    margin-top: 20%;
+    border: 1px solid #8b8b8b;
+}
+
+.contact_input{
+    color: black;
+}
+.checkboxs{
+    color:black;
+}
+.send{
+    padding-top:15px;
+}
+.send_button{
+    background: #009048;
+    border-color:  #009048;
+    text-shadow: none;
+    color: white;
+}
+
+.send_button:hover{
+    background: #006935; 
+    border-color: #006935;
+    color: white;
+}
+
+
+
+/*      fotter_area      */
+
+.last_left p{
+    color: white;
+}
+
+.my_form{
+    background: #323a45;
+    color: white;
+    margin-top: 30px;
+}
+.fotter_area{
+    background: #0b171e;
+    color: white;
+    min-height: 150px;
+}
+.fotter_area h1{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+}
+.fotter_area p{
+    color: white;
+}
+
+.address{
+    margin-top: 20px;
+}
+
+.link_area{
+    text-align: center;
+    margin-top:10px;
+}
+.google_icons{
+    margin-left: 8px;
+    font-size: 20px;
+    padding: 10px;
+    width: 40px;
+    background: white;
+    color: #DB4437;
+    border-radius: 50px;
+    text-align: center;
+
+}
+.google_icons:hover{
+    background-color: #DB4437;
+    color: white;
+}
+.linkedin_icons{
+    margin-left: 8px;
+    font-size: 20px;
+    padding: 10px;
+    width: 40px;
+    background: white;
+    color: #0077B5;
+    border-radius: 50px;
+    text-align: center
+}
+.linkedin_icons:hover{
+    background-color: #0077B5;
+    color: white;
+}
+
+.twitter_icons{
+    margin-left: 8px;
+    font-size: 20px;
+    padding: 10px;
+    width: 40px;
+    background: white;
+    color: #1DA1F2;
+    border-radius: 50px;
+    text-align: center
+}
+.twitter_icons:hover{
+    background-color: #1DA1F2;
+    color: white;
+}
+.facebook_icons{
+    margin-left: 8px;
+    font-size: 20px;
+    padding: 10px;
+    width: 40px;
+    background: white;
+    color: #3B5998;
+    border-radius: 50px;
+    text-align: center
+}
+.facebook_icons:hover{
+    background-color: #3B5998;
+    color: white;
+}
+
+/* hotel */
+
+.hotel_margin{
+    margin-top: 1%;
+    margin-bottom: 50px;
+}						
+.cus_pad{
+    margin-bottom:10px;
+    box-shadow: 0px 0px 3px 1px #3e3e3e;
+    margin-left:5px;
+    border-radius: 8px;
+}
+.btn_submit{
+    margin-left: 10%;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #009048;
+    color: white;
+    margin-top: 4%;
+    padding-top: 7px;
+    font-weight: bold;
+}
+.btn_submit:hover{
+    background: #006935;
+    color: white;
+}
+.search_bar_hotel{
+    margin-top: 5%;
+}
+.reset_botton{
+    background: #009048;
+    border-color:  #009048; /* 006935*/
+    text-shadow: none;
+    color: white;
+    border-radius: 5px;
+   margin-left: 140px;
+}
+
+.reset_botton:hover{
+    background: #01582d; 
+    border-color:#01582d;
+    color: white;
+}
+.reset_bnt{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.search_area{
+
+    margin-top: -20px;
+    padding: 10px;    
+}
+.booking_out{
+    margin-top: 1%;
+}
+.hotel_view_bg{
+    background-color: #d9e6e3;
+}
+.hotel_bg{
+    background-color: #d9e6e3;
+}
+.hotel_body{
+    
+}
+
+.hotel_list{
+    background: #ffffff;
+    margin-top: 10px;
+
+}
+.hotel_detailes{
+    background-color: white;
+    min-height: 150px;
+    text-align: center;
+    
+}
+.hotel_detailes h2{
+    font-weight: 600;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    color: black;
+}
+.hotel_detailes h4{
+    color: black;
+}
+.hotel_deal{
+    background-color: white;
+    min-height: 150px;
+    text-align: center;
+    border-left: 1px solid #959494;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.hotel_deal h2{
+    color: black;
+    margin-top: 10%;
+    font-weight: 600;   
+}
+.view_deal{
+    background:#009048;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 30%;
+}
+.view_deal:hover{
+    background: #006935;
+}
+.hotel_img{
+    min-height: 150px;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+
+/*hotel filter area*/
+
+.calander_p{
+    color: black;
+}
+.google_map{
+    height: 15%;
+    background: white;
+    border-radius: 5px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 3px 1px #3e3e3e;
+}
+.reset_bnt{
+    height: 15%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px 1px #3e3e3e;
+    background-color: white;
+    margin-top: 20px;
+    
+}
+.my_star{
+    height: 15%;
+    box-shadow: 0px 0px 3px 1px #3e3e3e;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.my_star h4{
+    padding: 3.5%;
+    color: black;
+}
+.star_image{
+    border: 1px solid #3e3e3e;
+    margin-left: 18px;
+    margin-bottom: 3.5%;
+ 
+}
+.star_image:hover{
+    box-shadow: 0px 0px 3px 1px #3e3e3e;
+}
+.serach_rating{
+    height: 15%;
+    box-shadow: 0px 0px 3px 1px #3e3e3e;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.serach_rating h4{
+    padding: 3.5%;
+    color: black;
+}
+
+.hotel_map{
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 3px 1px #3e3e3e;
+    background-color: white;
+    height: 30%;
+    margin-top: 20px;
+}
+.hotel_map h3{
+    padding-top: 10px;
+    padding-left: 10px;
+    color: black;
+}
+
+.hotel_sc{
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 3px 1px #cbcbcb;
+    background-color: white;
+    height: 30%;
+    margin-top: 20px;
+}
+.hotel_sc h3{
+    padding-top: 10px;
+    padding-left: 10px;
+    color: black;
+}
+
+.reset_filter{
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.search_map{
+    padding: 20px;
+    padding-bottom: 30px;
+}
+.fa_icon{
+    font-size: 40px;
+    box-shadow: 0px 0px 3px 1px #3e3e3e;
+    margin-left: 8px;
+}
+
+
+/* Hotel_veiw */
+/* jssor slider arrow navigator skin 05 css */
+
+.slider_part{
+    background: #FFFFFF;
+}
+.slider_left{
+    background-color: white;
+    min-height: 387px;
+ 
+}
+.slider_left_add{
+    
+    padding-top: 30px;
+    padding: 20px;
+}
+.slider_left_add h2{
+    font-size: 30px;
+    padding-bottom: 15px;
+    padding-top: 20px;
+    color: black;
+    text-align: center;
+}
+.slider_left_add h5{
+  
+  font-size: 18px;
+   color: black;
+}
+.hotel_contact_icon{
+    padding-bottom: 15px;
+}
+.add_rating{
+    padding-bottom: 50px;
+    padding-top: 40px;
+    min-height: 183px;
+}
+.add_rating h4{
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+.hotel_header{
+    min-height: 50px;
+    background: #009048;
+    
+}
+.hotel_header h1{
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+    font-weight: 500;
+} 
+/*
+.jssora05l                  (normal)
+.jssora05r                  (normal)
+.jssora05l:hover            (normal mouseover)
+.jssora05r:hover            (normal mouseover)
+.jssora05l.jssora05ldn      (mousedown)
+.jssora05r.jssora05rdn      (mousedown)
+*/
+.jssora05l, .jssora05r {
+    display: block;
+    position: absolute;
+    /* size of arrow element */
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background: url('../img/a17.png') no-repeat;
+    overflow: hidden;
+}
+.jssora05l { background-position: -10px -40px; }
+.jssora05r { background-position: -70px -40px; }
+.jssora05l:hover { background-position: -130px -40px; }
+.jssora05r:hover { background-position: -190px -40px; }
+.jssora05l.jssora05ldn { background-position: -250px -40px; }
+.jssora05r.jssora05rdn { background-position: -310px -40px; }
+
+/* jssor slider thumbnail navigator skin 01 css */
+/*
+.jssort01 .p            (normal)
+.jssort01 .p:hover      (normal mouseover)
+.jssort01 .p.pav        (active)
+.jssort01 .p.pdn        (mousedown)
+*/
+.jssort01 .p {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 72px;
+    height: 72px;
+}
+
+.jssort01 .t {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.jssort01 .w {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.jssort01 .c {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 68px;
+    height: 68px;
+    border: #000 2px solid;
+    box-sizing: content-box;
+    background: url('../img/t01.png') -800px -800px no-repeat;
+    _background: none;
+}
+
+.jssort01 .pav .c {
+    top: 2px;
+    _top: 0px;
+    left: 2px;
+    _left: 0px;
+    width: 68px;
+    height: 68px;
+    border: #000 0px solid;
+    _border: #fff 2px solid;
+    background-position: 50% 50%;
+}
+
+.jssort01 .p:hover .c {
+    top: 0px;
+    left: 0px;
+    width: 70px;
+    height: 70px;
+    border: #fff 1px solid;
+    background-position: 50% 50%;
+}
+
+.jssort01 .p.pdn .c {
+    background-position: 50% 50%;
+    width: 68px;
+    height: 68px;
+    border: #000 2px solid;
+}
+
+* html .jssort01 .c, * html .jssort01 .pdn .c, * html .jssort01 .pav .c {
+    /* ie quirks mode adjust */
+    width /**/: 72px;
+    height /**/: 72px;
+}
+
+.booking_area{
+    border: 3px solid #009048;
+}
+.check_update{
+    border-bottom: 2px solid #939393;
+}
+.room_type_1{
+    background: #FFFFFF;
+    border-right: 2px solid #939393;
+    border-bottom: 2px solid #939393;
+    color:black;
+}
+.room_type_1 h2{
+    color:black;
+    padding-bottom:5px;
+    padding-top:5px;
+}
+.room_option_2{
+    background: #FFFFFF;
+    border-right: 2px solid #939393;
+    border-bottom: 2px solid #939393;
+    color:black;
+}
+.room_option_2 h2{
+    color:black;
+    padding-bottom:5px;
+    padding-top:5px;
+}
+.room_price_3{
+    background: #FFFFFF;
+    border-bottom: 2px solid #939393;
+    color:black;
+}
+.room_price_3 h2{
+    color:black;
+    padding-bottom:5px;
+    padding-top:5px;
+}
+.room_book_4{
+    background: #FFFFFF; 
+    border-bottom: 2px solid #939393;
+    color:black;
+}
+
+
+.room_type{
+    background: #FFFFFF;
+    border-right: 2px solid #939393;
+    height:200px; 
+    border-bottom: 2px solid #939393;
+    padding-top:5px;
+    color:black;
+    margin-bottom:10px;
+}
+.room_type img{
+    float:left;
+}
+.room_type_6{
+    background: #FFFFFF;
+    border-right: 2px solid #939393;
+    min-height: 320px;
+    padding-top:5px;
+    color:black;
+}
+.room_type_6 img{
+    float:left;
+}
+.room_option{
+    background: #FFFFFF;
+    border-right: 2px solid #939393;
+    height: 200px;
+    padding-top: 2%;
+    padding-bottom: 5.6%;
+    border-bottom: 2px solid #939393;
+    margin-bottom:10px;
+}
+.room_option h4{
+    padding-top: 3%;
+    color:black;
+}
+.room_option_6{
+    background: #FFFFFF;
+    border-right: 2px solid #939393;
+    height: 320px;
+    padding-top: 2%;
+    padding-bottom: 5.6%;
+}
+.room_option_6 h4{
+    padding-top: 2%;
+    color:black;
+}
+.room_price{
+    background: #FFFFFF;
+    height: 200px;
+    position: relative;
+    padding-top: 20px;
+    text-align: center;
+    border-bottom: 2px solid #939393; 
+    margin-bottom:10px;
+}
+.room_price h2{
+    color:black;
+}
+.room_price_6{
+    background: #FFFFFF;
+    height: 320px;
+    position: relative;
+    padding-top: 57px;
+    text-align: center;
+}
+.room_price_6 h2{
+    color:black;
+}
+.room_book{
+    background: #FFFFFF;
+    min-height: 150px;    
+}
+
+.booking_area{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.choose{
+    background: #009048;
+    padding: 15px;
+    color: white;
+}
+.reserve{
+    background:#009048;
+    color: white;
+    margin-top: 3%;
+}
+.reserve:hover{
+    background: #006935;
+} 
+.room_details{
+    padding-top: 3%;
+}
+.room_details h3{
+    color:black;
+    padding-top: 20px;
+}
+.more_details{
+    margin-top: 10%;
+}
+.more_edit_details{
+    background:#009048;
+    color:white;
+    margin-top: 10px;
+}
+.more_edit_details:hover{
+    background:#006935;
+}
+.room_type:last-child{
+    margin-bottom:0px;
+    border-bottom:0px;
+}
+/* Reserve Area */
+
+
+.book_faster{
+    margin-top:30px;
+}
+.lock_icon{
+    display: inline;
+}
+.lock_icon h3{
+    color:white;
+}
+.custom_panal{
+    background:skyblue;
+}
+.panel-title a{
+    text-decoration: none;
+}
+.credit_card_details{
+    border:2px solid #009048; 
+    
+}
+.credit_card_details:hover{ 
+    
+}
+.forgot{
+    float: bottom;
+}
+.sign_button{
+    background: #009048;
+    border-color:  #009048;
+    text-shadow: none;
+    color: white;
+    padding-right: 11%;
+    padding-left: 11%;
+    padding-bottom: 1.5%;
+    padding-top: 1.5%;
+    text-align: center;
+    font-size: 18px;
+}
+.sign_button:hover{
+    background: #006935; 
+    border-color: #006935;
+    color: white;
+}
+.sign_msge{
+    margin-top: 5%;
+    margin-bottom: 1%;
+}
+.panel-title{
+    font-size: 17px;
+    list-style-type: none;
+}
+.sign_input{
+    color: black;
+    margin-top: 5px;
+}
+.forgot a{
+    text-decoration: none;
+}
+.facebook_icon{
+    background: #3B5998;
+    width:100%;
+    height: 45px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 7%;
+    margin-bottom: 15%;
+}
+.fb_icons{
+    margin-left: 8px;
+    font-size: 18px;
+    padding: 10px;
+    width: 40px;
+    background: white;
+    color: #3B5998;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 4px; 
+}
+.facebook_icon a{
+    text-decoration: none;
+}
+.google_icon{
+    background: #DB444F;
+    width:100%;
+    height: 45px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 10%;
+}
+.google_icon a{
+    text-decoration: none;
+}
+.gl_icons{
+    margin-left: 8px;
+    font-size: 18px;
+    padding: 10px;
+    width: 40px;
+    background: white;
+    color: #DB444F;
+    border-radius: 50px;
+    text-align: left;
+    margin-top: 4px;
+}
+.signin_msge p{
+    text-align: center;
+    color: white;
+    padding-top: 12px;
+}
+.signin_msge{
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.great_choice{
+    margin-top: -10%;
+}
+.my_choice{
+    background: #FFFFFF;
+    margin-bottom: 20px;
+}
+.great_choice{
+    margin-top: -340px;
+}
+.choice{
+    color: #5B7515;
+    font-size: 15px;
+    margin-top: 8px;
+}
+.room1{
+    margin-top: 10px;
+    font-weight: 500;
+}
+.tik_icon{
+    color: #5B7515;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.country_form{
+    color: black;
+    font-weight: 600;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.reserve_input{
+    color: black;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+.btn_bkash{
+    margin-left: 6%;
+}
+.number_input{
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.confirmation{
+    margin-bottom: 30px;
+}
+.book_right{
+    height: 36px;
+    background: #EEEEEE;
+    float: right;
+    border-radius: 5px;
+    border: 1px solid #DDDDDD;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 0px;
+    margin-top:30px;
+}
+.book_right p{
+    margin-top: 7px;
+}
+.choice_right{
+    float: right;
+    margin-top: 20px;
+}
+.seft_icon{
+    font-size: 15px;
+    color: #5B7515;
+}
+.room2{
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+.checkin{
+    font-weight: 500;
+    margin-top: 6px;
+}
+.checkout{
+    font-weight: 500;
+    margin-top: 3px;
+}
+.credit_card_option{
+    background:#FFFFFF;
+    padding-bottom:20px;
+}
+.credit_card{
+    font-size:25px;
+    padding:5px 0px;
+    display:inline;
+    position:absolute;
+}
+.right_hand{
+    color:#5B7515;
+    padding:10px 20px;
+}
+.coupon_panel{
+    padding-top:10px;
+    color:black;
+    margin-bottom: 20px;
+}
+.coupon_panell{
+    margin-bottom: 20px;
+}
+.panel-body{
+    background: white;
+}
+.panel-heading{
+    background:#EEEEEE;
+    padding:6px 15px;
+}
+
+.coupon_button{
+    background: #009048;
+    border-color:  #009048;
+    text-shadow: none;
+    color: white;   
+    margin-top:5px;
+    padding:5px 8px;
+    text-align: center;
+    font-size: 15px;
+    margin-left:1%;
+}
+
+.coupon_button:hover{
+    background: #006935; 
+    border-color: #006935;
+    color: white;
+}
+.booking_trx{
+    float:left;
+}
+.confirmation_email{
+    margin-top:2%;
+}
+.confirmation_option{
+    background:#FFFFFF;
+    padding-bottom:15px;
+    color:black;
+}
+.confirmation_option h4{
+    padding:10px 20px;
+    color:black;
+}
+.bkash_here{
+    margin-bottom: 8px;
+}
+.envelope{
+    font-size:25px;
+    padding:5px 0px;
+    display:inline;
+    position:absolute;
+}
+.manage_booking{
+    background:white;
+}
+.pass{
+    padding-top:10px;
+}
+.pass p {
+    padding-bottom:10px;
+}
+/* Add Hotel Area */
+.add_gallery{
+    background: #009048;
+    color:white;
+    border-radius:0px;
+    margin-top:5px;
+}
+.add_gallery:hover{
+    background: #006935; 
+    border-color: #006935;
+    color: white;
+}
+
+.add_hotel_p h2{
+    font-size:40px;
+    text-align:center;
+    margin-top: 35px;
+    color:white;
+}
+.abt_hotel{
+    font-size:20px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    padding-bottom:5px;
+    font-weight:600;
+    border-bottom: 1px solid #009048;
+}
+/* user profile */
+.user_pic{
+    margin-top: 40px;
+}
+.user_name{
+    background: white;
+    padding-bottom: 20px;
+}
+.user_name h3{
+    color:black;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+}
+.edit_btn{
+    color: white;
+    background: #009048;
+}
+.edit_btn:hover{
+    background: #006935; 
+    color: white;
+}
+.user_info{
+    background: white;
+    color: black;
+    line-height: 25px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
+.user_info{
+    padding-left: 10px;
+}
+.change_information{
+    margin-top: 40px;
+    color: black;
+   
+    padding-bottom: 20px;
+}
+.change_information h3{
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    color: black;
+    text-align: center;
+}
+.update_info{
+   
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border: 2px solid #009048;
+    color: white;
+    background: 0.5;
+    border-radius:25px;
+    background-color: rgba(0,0,0,0.7);
+}
+.password_change{
+    background:#009048;
+    color:white;
+    border-radius:5px;
+    margin-top: 20px;
+}
+.password_change:hover{
+    background:#006935;
+}
+.save_change{
+    background:#009048;
+    color:white;
+    border-radius:5px;
+    margin-top: 10px;
+}
+.save_change:hover{
+    background:#006935;
+}
+.update_change{
+    border-radius: 5px;
+    background-color: rgba(0,27,14,0.2);
+}
+
+.hotel_img_up{
+    color: white;
+}
